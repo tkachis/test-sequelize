@@ -5,7 +5,7 @@
 ```bash
 git clone git@%PROJECT_NAME%.git
 cd %PROJECT_NAME%/
-npm install              # install project dependencies
+npm install
 ```
 
-Change database settings in config/database.js
+Change database settings in *config/database.js*
